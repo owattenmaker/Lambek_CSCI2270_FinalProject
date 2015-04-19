@@ -10,7 +10,7 @@ Load the code into a compiler of your choie, then build and run. The program wil
 # System Requirements:
 
 # Group Members:
-None
+Owen Wattenmaker
 
 # Contributors:
 
