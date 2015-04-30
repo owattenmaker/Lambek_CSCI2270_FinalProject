@@ -1,17 +1,3 @@
 # Lambek_CSCI2270_FinalProject Read Me
-# Summary:
-My project will take an integer and find all the prime numbers between 1 and the given integer, and all of the gap sizes between each prime number. It will also have a function to find all the factors of a given number within the original range given.
-
-# How to Run:
-Load the code into a compiler of your choie, then build and run. The program will ask for the desired max integer, then you will input an integer.
-
-# Dependencies:
-
-# System Requirements:
-
-# Group Members:
-Owen Wattenmaker
-
-# Contributors:
-
-# Open issues/bugs
+# GO TO https://github.com/mlambek/Lambek_CSCI2270_FinalProject:
+Please evaluate https://github.com/mlambek/Lambek_CSCI2270_FinalProject instead, I am a contributor to that and forgot to push to my branch of the project, instead I pushed all of my changes to master on Lambeks account as he made me an admin as well
